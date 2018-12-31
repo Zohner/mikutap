@@ -1,3 +1,5 @@
+# 注意：以下全部为搬运内容
+---
 # mikutap
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
